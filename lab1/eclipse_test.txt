@@ -1,0 +1,13 @@
+Welcome.java output:
+	Welcome
+	1566931021059
+	
+	
+First Addition.java output:
+	Summation for number 20 is: 210
+	
+
+Second Addition.java output:
+	Summation for number 10 is: 1023
+	
+	
